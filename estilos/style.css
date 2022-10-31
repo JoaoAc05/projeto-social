@@ -55,7 +55,7 @@ section#redes img {
 }
 section#redes img:hover {
     border: 2px solid rgba(255, 255, 255, 0.575);
-    transform: translate(-5px, -5px);
+    transform: translate(-3px, -3px);
     box-shadow: 6px 6px 12px #000000a2;
     transition: 0.3s;
 }
